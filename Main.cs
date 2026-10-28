@@ -172,7 +172,7 @@ namespace ChatboxPlus
         {
             public override void OnDeath()
             {
-                action = $"Blackout: Killed";
+                action = $"Blackout: Died";
             }
 
             public override void OnDamageRecieved(int damage)
